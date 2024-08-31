@@ -14,7 +14,7 @@ export function Header() {
   return (
     <div className="md:fixed top-0 z-10 px-6 py-2 w-full flex justify-between items-center bg-background backdrop-filter backdrop-blur-sm bg-opacity-30">
       <Link href="/" className="font-medium font-mono text-sm">
-        cursor.directory
+        cursorrules.io
       </Link>
 
       <div className="flex items-center gap-4">
@@ -64,14 +64,14 @@ export function Header() {
               <br />
               <br />
               Feel free to create your own directory using our{" "}
-              <a href="https://git.new/cd" className="underline">
+              <a href="https://git.new/crio" className="underline">
                 template
               </a>{" "}
               on GitHub.
               <br />
               <br />
               <br />
-              <a href="https://git.new/cd">
+              <a href="https://git.new/crio">
                 <Button
                   className="w-full bg-white text-black rounded-full"
                   variant="outline"

@@ -54,7 +54,7 @@ export default function RootLayout({
             {children}
 
             <a
-              href="https://github.com/pontusab/cursor.directory"
+              href="https://github.com/cursorrules/getcursorrules"
               target="_blank"
               rel="noreferrer"
             >
