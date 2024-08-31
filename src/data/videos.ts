@@ -1,5 +1,15 @@
 export const videos = [
   {
+    title: "Cursor + Claude Sonnet 3.5 Code Stream: Building a Transcript Chat App Live",
+    description: "Cursor + Claude Sonnet 3.5 Code Stream: Building a Transcript Chat App Live",
+    url: "https://www.youtube.com/embed/NLATKChLOv8",
+    author: {
+      name: "Ray Fernando",
+      image:
+        "https://yt3.ggpht.com/dRzerhEq7Sd2S8civb2MKYAUPQy3ncVVGe86DIY0m7N-s8vx1E0SwWfpWOMrqPflMSShi2udgQ=s160-c-k-c0x00ffffff-no-rj",
+    },
+  },
+  {
     title: "Coding with Cursor: Session 1",
     description: "Coding with Cursor: Session 1",
     url: "https://www.youtube.com/embed/1CC88QGQiEA",
