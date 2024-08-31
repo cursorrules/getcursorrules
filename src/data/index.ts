@@ -25,8 +25,10 @@ import { angularRules } from "./rules/angular";
 import { dotnetRules } from "./rules/dotnet";
 import { svelteKit5Rules } from "./rules/sveltekit";
 import { gatsbyRules } from "./rules/gastby";
+import { springBootRules } from "./rules/spring-boot";
 
 export const rules = [
+  ...springBootRules,
   ...astroRules,
   ...nextjsRules,
   ...swiftuiRules,
