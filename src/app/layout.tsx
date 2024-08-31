@@ -12,7 +12,7 @@ import type { Metadata } from "next";
 import { ThemeProvider } from "next-themes";
 
 export const metadata: Metadata = {
-  title: "Cursor Directory",
+  title: "Get Cursor Rules",
   description: "Find the best cursor rules for your framework and language",
 };
 
